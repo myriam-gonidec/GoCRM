@@ -1,4 +1,5 @@
 # GoCRM: Standard CRM dashboarding, to monitor opportunities & sales, and to understand prospects & customers
+https://myriam-gonidec.github.io/GoCRM/
 ![image](https://github.com/user-attachments/assets/5dca21b5-3143-4282-8b54-ed0b3575811e)
 
 ## Project description

@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/5dca21b5-3143-4282-8b54-ed0b3575811e)
 
 ## Project description
-GoCRM, as a fictual company, needs to monitor opportunities & sales pipeline, and to learn about its prospects & customers.
+GoCRM, as a fictional company, needs to monitor opportunities & sales pipeline, and to learn about its prospects & customers.
 
 ## Data source
 This project analyzes opportunities & sales pipeline, created from scratch.

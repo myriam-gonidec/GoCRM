@@ -5,13 +5,18 @@ https://myriam-gonidec.github.io/GoCRM/
 ## Project description
 GoCRM, as a fictional company, needs to monitor opportunities & sales pipeline, and to learn about its prospects & customers.
 
+## Key business questionsHow many of our products driving 80% of our sales?
+- What is our funnel of conversion? What % of conversion?
+- What volume/value of our opportunities & sales?
+- What about the profile of our prospects & customers?
+
 ## Data source
 This project analyzes opportunities & sales pipeline, created from scratch.
 
 ## Tool
 - PowerBI, PowerQuery, DAX
 
-## Take-aways
+## Skills demonstrated
 - Power Query M language to import and clean the data source
 - Star model with facts and dimensions table
 - DAX measures
